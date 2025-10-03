@@ -1,0 +1,54 @@
+body {
+    background-image: url(https://images.wallpaperscraft.com/image/single/banana_fruit_tropical_170416_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    padding: 20% 10%;
+    text-align: center;
+}
+
+h1 {
+  font-family: "Bitcount Grid Double", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+h2 {
+  font-family: "Bitcount Grid Double", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+p {
+  font-family: "Bitcount Grid Double", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+li { 
+
+     font-family: "Bitcount Grid Double", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+
+}
+
+th {
+
+    font-family: "Bitcount Grid Double", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+
+td {
+
+     font-family: "Bitcount Grid Double", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+
+}
